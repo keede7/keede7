@@ -1,4 +1,9 @@
 
+🌱 I’m Junior Developer
+
+📫 to Study.. Node.js, React.js, Kotlin, MSA
+
+
 #### My Tech 🤔
 
 ![Java](https://img.shields.io/badge/JAVA-97979A?style=flat&logo=java)
