@@ -1,4 +1,13 @@
-### Hi there 👋
+
+#### My Tech 🤔
+
+![Java](https://img.shields.io/badge/JAVA-97979A?style=flat&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-131F37?style=flat&logo=spring)
+![Spring-Data-JPA](https://img.shields.io/badge/-JPA-B41717?style=flat&logo=hibernate)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=awse2050&show_icons=true)
+
 
 <!--
 **awse2050/awse2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
