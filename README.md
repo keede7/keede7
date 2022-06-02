@@ -1,7 +1,9 @@
 
-🌱 I’m Junior Developer
+🌱 *I’m Junior Developer ( Currently looking for a Job )*
 
-📫 to Study.. Node.js, React.js, Kotlin, MSA
+📫 *To Study Mainly..  - **Java**, **Spring related Technology Structure***
+
+⚡ *Other Interested..  -  **Kotlin**, **MSA** and **React.js + Typescript***
 
 
 #### My Tech 🤔
