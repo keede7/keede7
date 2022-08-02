@@ -1,5 +1,5 @@
 
-🌱 *I’m Junior Developer ( Currently looking for a Job )*
+🌱 *I’m Junior Developer*
 
 📫 *To Study Mainly..  - **Java**, **Spring related Technology Structure**, **Unit Test**
 
