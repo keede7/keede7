@@ -3,7 +3,7 @@
 
 📫 *To Study Mainly..  - **Java**, **Spring related Technology Structure**, **Unit Test**
 
-⚡ *Other Interested..  -  **Kotlin**, **MSA** and **React.js + Typescript**
+⚡ *Other Interested..  -  **Kotlin**, **Docker**, **OS**, **Cloud**
 
 
 #### My Tech 🤔
