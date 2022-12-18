@@ -3,7 +3,7 @@
 
 📫 *To Study Mainly..  - **Java**, **Spring related Technology Structure***
 
-⚡ *Other Interested..  -  **Unit Test**, **CS**, **Infrastructure***
+⚡ *Other Interested..  -  **Unit Test**, **CS**, **Infrastructure**, **Flutter(Dart)***
 
 
 #### My Tech 🤔
