@@ -13,7 +13,7 @@
 ![Spring-Data-JPA](https://img.shields.io/badge/-JPA-B41717?style=flat&logo=hibernate)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=awse2050&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kide77&show_icons=true)
 
 
 <!--
