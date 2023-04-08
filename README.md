@@ -7,9 +7,9 @@
 
 🌱 *I’m Junior Developer*
 
-📫 *To Study Mainly..  - **Java**, **Spring related Technology Structure***
+📫 *To Study Mainly..  - **Java**, **Spring related Technology Structure** , **Kotlin***
 
-⚡ *Other Interested..  -  **Unit Test**, **CS**, **Infrastructure**, **Kotlin***
+⚡ *Other Interested..  -  **Unit Test**, **CS**, **Infrastructure***
 
 
 #### My Tech 🤔
