@@ -20,6 +20,16 @@
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 
 
+#### Studying
+
+- `Network`, `OS`
+
+#### Blog
+
+- [Tistory](https://awse2050.tistory.com/)
+- [Velog](https://velog.io/@kide77)
+
+
 <!--
 **awse2050/awse2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
