@@ -26,7 +26,7 @@
 
 #### Blog
 
-- [Tistory](https://awse2050.tistory.com/)
+- [Tistory](https://awse2050.tistory.com/) (`Not Use`)
 - [Velog](https://velog.io/@kide77)
 
 
